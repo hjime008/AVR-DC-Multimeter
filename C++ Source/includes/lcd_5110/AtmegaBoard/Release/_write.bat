@@ -1,0 +1,1 @@
+avrdude -p atmega8 -c usbasp -U flash:w:AtmegaBoard.hex:i
